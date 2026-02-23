@@ -1,6 +1,6 @@
 Olá 👋 Meu nome é Pablo Ruan
 
-Curso Sistemas de Informação | Backend Explorer Desenvolvendo aplicações robustas com Python e Flask. Foco em arquitetura de dados com SQLite e automação de rotinas. 2º semestre em progresso. Pitão | Frasco | SQL | Git * 🌍 Moro no Brasil * ✉️ Você pode entrar em contato comigo em [pabluoqkkj@gmail.com](mailto:pabluoqkkj@gmail.com)
+Curso Sistemas de Informação | Backend Explorer Desenvolvendo aplicações robustas com Python e Flask. Foco em arquitetura de dados com SQLite e automação de rotinas. 2º semestre em progresso. Pyton| Flasak | SQL | Git * 🌍 Moro no Brasil * ✉️ Você pode entrar em contato comigo em [pabluoqkkj@gmail.com](mailto:pabluoqkkj@gmail.com)
 
 
 ### Redes Sociais
